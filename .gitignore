@@ -1,0 +1,8 @@
+# Tool specific ignores
+.vscode
+
+# virtual env
+.venv
+*.pyc
+__pycache__/
+django_backend/db.sqlite3
